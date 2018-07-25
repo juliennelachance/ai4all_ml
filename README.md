@@ -4,3 +4,9 @@
 
 https://royalsociety.org/topics-policy/projects/machine-learning/machine-learning-in-the-world-around-you-infographic/
 
+source ~/miniconda3/bin/activate 
+jupyter notebook
+
+
+
+
